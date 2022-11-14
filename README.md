@@ -1,3 +1,4 @@
+<img width="1415" alt="Screenshot 2022-11-14 at 16 48 08" src="https://user-images.githubusercontent.com/113362369/201704676-f962b80e-1417-4f18-89ed-fa8347f71da2.png">
 This is a Zen quote generator based on Angela Yu's 'Kanye Quote Generator' from her #100DaysofPython project. 
 When the python code is run, a TKinter window appears, and when you click on the pink lotus flower a random inspirational quote is requested from the 'Zen Quotes API' and posted to the window. This quote generator was made to celebrate completion of my #100DaysofCode, and to generate a positive daily inspirational message!
 
